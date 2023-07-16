@@ -9,7 +9,7 @@ Tal trabalho nos desenvolveu principalmente nas partes de UX/UI além de desenvo
 Prestamos muita atenção com a usabilidade e acessibilidade, sempre pensando nas Heurísticas de Nielsen e Princípios de Norman.
 
 # Integrantes do Grupo:
-Artur Yamamoto,
-Bruno Kenji,
-Pedro Wagner,
-Tiago Hiray
+- Artur Yamamoto
+- Bruno Kenji
+- Pedro Wagner
+- Tiago Hiray
