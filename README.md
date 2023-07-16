@@ -12,4 +12,4 @@ Prestamos muita atenção com a usabilidade e acessibilidade, sempre pensando na
 Artur Yamamoto,
 Bruno Kenji,
 Pedro Wagner,
-Tiago Hiray,
+Tiago Hiray
